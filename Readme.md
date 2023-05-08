@@ -1,5 +1,5 @@
 # Project Java
-Application with Java + Java Swing for (UI/UX) + Data Structures (Tree, ) focused in a veterinary system (users, pets, species and much more)
+Application with Java + Java Swing for (UI/UX) + Data Structures (Tree, simple list, double linked list, simple circular list, double circular list) focused in a veterinary system (users, pets, species and much more)
 
 ## Table of Contents
 * [General Info](#general-information)
@@ -15,8 +15,7 @@ Application with Java + Java Swing for (UI/UX) + Data Structures (Tree, ) focuse
 
 
 ## General Information
-- The Shop Management System helps companies manage their products, users, providers and other parts of the business traceability, focused on providing technological tools as an essential pillar for the development of PYMES in Costa Rica at least it was the origin of the project. 
-- Technologies such as Javascript, NodeJS, NoSQL DataBases (MongoDB), Bootswatch (Alternative of Bootstrap), likewise, these technologies were chosen to work on programming logic in a university course of NoSQL databases.
+- This is a veterinary desktop graphical interface application created with Java-Swing, the entire backend works with data structures, the ones used are simple list, double linked list, simple circular list, double circular list among others.
 
 
 ## Technologies Used
@@ -35,12 +34,14 @@ Application with Java + Java Swing for (UI/UX) + Data Structures (Tree, ) focuse
 
 
 ## Screenshots
-![Main]()
 
-![Graficos](https://user-images.githubusercontent.com/75222804/215351663-afafef10-bb0f-451a-a9ca-c8f35b90ccff.jpg)
+![Captura de pantalla 2023-05-08 124830](https://user-images.githubusercontent.com/75222804/236908136-2e8f7971-d08e-4c68-b592-9d969f3ee274.jpg)
 
-![Profile](https://user-images.githubusercontent.com/75222804/215351722-d4774a69-f212-4734-8960-2f47b56cc4a3.jpg)
+![Captura de pantalla 2023-05-08 124846](https://user-images.githubusercontent.com/75222804/236908163-a29ecfd7-d8f8-436f-b8bd-6f1492dba424.jpg)
 
+![Captura de pantalla 2023-05-08 124950](https://user-images.githubusercontent.com/75222804/236908187-367cca94-ce33-4537-9bb2-1d1e7fc7574d.jpg)
+
+![Captura de pantalla 2023-05-08 125015](https://user-images.githubusercontent.com/75222804/236908211-129e238f-f1b7-417b-a962-7ed08a2a6d80.jpg)
 
 
 ## Setup
